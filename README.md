@@ -1,0 +1,2 @@
+# standardApp
+standard go project 
